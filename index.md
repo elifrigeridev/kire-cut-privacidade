@@ -6,7 +6,7 @@ title: KIRE CUT — Política de privacidade
 
 Última atualização: 25 de novembro de 2026.
 
-O KIRE CUT é desenvolvido por elifrigeridev.
+O KIRE CUT é desenvolvido por elifrigeri.
 
 O KIRE CUT é um editor de vídeo para Windows. Esta página explica, em linguagem simples, o que acontece
 com os seus dados quando você usa o app.
